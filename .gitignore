@@ -2,3 +2,5 @@
 .idea
 java-stringcalculator.iml
 ./lib
+build/
+.gradle
